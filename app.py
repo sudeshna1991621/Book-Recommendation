@@ -4,7 +4,8 @@ import pickle
 
 # Set page configuration at the very top
 st.set_page_config(page_title="Book Recommender App", layout="wide")
-book = pd.read_csv('Books.csv')
+with open('books.pkl', 'rb') as file:
+    book = pickle.load(file)
 
 # Load the .pkl file containing the book data
 @st.cache_data

@@ -10,3 +10,5 @@ Create a new Environment
 conda create -p venv python==3.9 -y
 
 '''
+The final deployed application is accessible via the following link: 
+https://book-recommendation-2ly5.onrender.com

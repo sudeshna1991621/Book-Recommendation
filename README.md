@@ -25,7 +25,7 @@ Welcome to the **Book Recommender App**! This interactive web app helps you disc
 
 ## 🏃‍♂️ How to Run:
 1. Clone the repository to your local machine:
-   ```git clone https://github.com/your-username/book-recommender-app.git```
+   ```git clone https://github.com/sudeshna1991621/Book-Recommendation.git```
 2. Install the required dependencies:
 ```pip install streamlit pandas```
 3. Launch the app using Streamlit:
